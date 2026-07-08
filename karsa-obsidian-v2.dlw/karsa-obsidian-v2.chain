@@ -4,6 +4,6 @@ slug  : karsa-obsidian-v2
 seal  : 36858155604ab99634a2534b212a83249e1ae31109ccfa4633047738f04b1b98
 prev  : 966c5ba2c8ea0c15e77772c2b2be9149c3b93ce44a767b64b14ed65332b70e16
 link  : fc221fb104c6cb2ac6be8301c2ef298e81963225ea3250d11692c63f7c92f38e
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
